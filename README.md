@@ -1,5 +1,5 @@
 # Css-Layout
-Membuat Website Sederhana menggunakan Html &amp; Css 
+ 
 1. index
 ![Screenshot_1](https://github.com/Khafid224/Css-Layout/assets/145306005/722f6762-cbad-49e0-b095-6b9f94efbcc8)
 
