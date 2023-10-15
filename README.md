@@ -1,7 +1,7 @@
 # Css-Layout
  
 1. index
-![Screenshot_1](https://github.com/Khafid224/Css-Layout/assets/145306005/722f6762-cbad-49e0-b095-6b9f94efbcc8)
+![Screenshot_7](https://github.com/Khafid224/Css-Layout/assets/145306005/7bc27964-28a7-42d9-b8b7-c63f71a30c9f)
 
 2. profil
 ![Screenshot_3](https://github.com/Khafid224/Css-Layout/assets/145306005/430a9468-b7bc-4465-a815-b258bca01cf3)
