@@ -14,3 +14,6 @@
 
 5. posting2
 ![Screenshot_6](https://github.com/Khafid224/Css-Layout/assets/145306005/266e7a58-e4ed-4234-867b-789bfdd18df3)
+
+6. posting3
+![Screenshot_8](https://github.com/Khafid224/Css-Layout/assets/145306005/b447e704-3fac-4b19-bc92-33f96de75556)
